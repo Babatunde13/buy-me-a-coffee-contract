@@ -9,6 +9,6 @@ npm run help
 npm run test
 GAS_REPORT=true npx run test
 npm start
-npm deploy:local
-npm deploy <host>
+npm run deploy:local
+npm run deploy <host>
 ```
