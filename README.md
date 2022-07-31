@@ -7,8 +7,10 @@ Try running some of the following tasks:
 ```shell
 npm run help
 npm run test
-GAS_REPORT=true npx run test
+GAS_REPORT=true npm run test
 npm start
 npm run deploy:local
 npm run deploy <host>
 ```
+
+You can reach out to me on Twitter [@bkoiki950](https://twitter.com/bkoiki950).
